@@ -1,0 +1,13 @@
+abbr:title::first-letter {
+    font-weight: bold;
+}
+
+body {
+    font-size: calc(.525rem + .5vw);
+  }
+  
+
+  source, img {
+    width: 200px;
+    height: 200px;
+}
